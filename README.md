@@ -1,4 +1,4 @@
-# Crypto — Cryptojacking Detection Scanner
+# cryptojack-scanner — Cryptojacking Detection Scanner
 
 A command-line scanner that checks websites for known **cryptojacking**
 script signatures — JavaScript that secretly mines cryptocurrency in a
